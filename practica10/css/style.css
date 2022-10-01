@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+article{
+    background-color: #ffd3d3;
+}
+nav{
+    background-color: #dfcccc;
+}
+footer{
+    background-color: #ffa4a4;
+    height: 300px;
+}
+.container{
+    font-family: italic;
+    color: #965959;
+}
+img{
+    border-radius: 50%;
+}
